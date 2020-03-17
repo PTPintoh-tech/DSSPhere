@@ -1,0 +1,8 @@
+.hero-section_c {
+    background: url("../mp4/fx_hd_1508.mp4");
+    padding: 100px 0;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
